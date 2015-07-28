@@ -1,0 +1,17 @@
+{
+  "name": "bootstrap-scrollable-modal",
+  "main": "bootstrap-scrollable-modal.js",
+  "version": "0.0.1",
+  "authors": [
+    "Sean Omlor <somlor@eml.cc>"
+  ],
+  "description": "Thin wrapper around Bootstrap modal which adds .modal-scrollable class to body",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
